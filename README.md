@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sushmita41
-- 👀 I’m interested in Data Science and Data Visualization
-- 🌱 I’m currently learning to code with Python and D3j and do cool stuff :)
+- 👀 I’m paving my way towards Data Science, Data Visualization and ML
 - 📫 Reach me via email - sushmitasaha.da@gmail.com
 
 <!---
